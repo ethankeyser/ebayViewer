@@ -1,7 +1,6 @@
 # ebayViewer
 
-
-
+NOTE: I highly recommend using DC or ISP proxies! I have not fully tested with Residential Proxies yet
 
 To use this viewer:
 
